@@ -8,4 +8,4 @@ You can install it directly with the apk file given above.
 
 ## ScreenShots
 
-[![math-Trainer1.jpg](https://i.postimg.cc/zXq95nRS/math-Trainer1.jpg)](https://postimg.cc/PNF6QvyP  | width=100)
+<img src="https://i.postimg.cc/zXq95nRS/math-Trainer1.jpg" width="200" height="400" />
