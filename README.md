@@ -4,7 +4,7 @@ Math Trainer is a simple android application developed on Android Studio with Ja
 
 ## Installation
 
-You can install it directly with the apk file given above.
+You can download and install the apk file for your android device from [HERE](https://1drv.ms/u/s!AosmDyq537C4g1pBiXAAVgOLGmei). 
 
 ## ScreenShots
 
